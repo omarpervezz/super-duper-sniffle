@@ -5,7 +5,7 @@
 
 body {
     font-family: "Roboto Mono", monospace;
-    background: rgba(3, 20, 29, 0.66);
+    background: rgb(3 20 29 / 88%);
 }
 
 .percentengeContainer {
@@ -47,3 +47,15 @@ body {
     width: 80px;
     text-align: center;
 }
+@media (max-width: 766px) {
+  .percentengeContainer h1{
+    font-size: 23px;
+  }
+  .percentengeContainer .percentageList {
+    width: 48%;
+    font-size: 15px;
+    padding: 5px 6px;
+    margin: 7px auto;
+}
+  }
+  
