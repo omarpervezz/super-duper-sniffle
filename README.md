@@ -4,7 +4,7 @@ This is a simple web application that generates a list of percentages from 1% to
 
 ## Demo
 
-You can see a live demo of the Percentage List Generator [here](https://your-demo-link).
+You can see a live demo of the Percentage List Generator [here](https://omarpervezz.github.io/super-duper-sniffle/).
 
 ## Getting Started
 
